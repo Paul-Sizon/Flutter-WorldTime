@@ -2,6 +2,7 @@
     package="com.worldtimer.worldtime">
    <application
         android:label="worldtime"
+        android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
